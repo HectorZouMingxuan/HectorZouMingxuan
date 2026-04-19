@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zou Ming Xuan</h1>
+<h1 align="center">Hi 👋, I'm Hector</h1>
 <h3 align="center">Software Engineering Student @ University of Malaya</h3>
 
 ---
@@ -34,46 +34,6 @@
 - JupyterLab
 
 ---
-
-## 📌 Featured Projects
-
-### 📱 Project Connect (Mobile App)
-> Android app for student collaboration
-
-- 🔹 Built with **Kotlin + Jetpack Compose**
-- 🔹 Firebase Firestore integration
-- 🔹 Features:
-  - Create / Join / Delete projects
-  - Real-time project updates
-  - User profile system
-- 🔹 Practiced debugging & feature implementation
-
-👉 [View Project](https://github.com/HectorZouMingxuan/project-connect)
-
----
-
-### 💰 Loan Calculator (Web App)
-> Simple financial calculator
-
-- 🔹 Built with HTML, CSS, JavaScript
-- 🔹 Calculates loan repayment & interest
-- 🔹 Clean UI with user input handling
-
-👉 [View Project](https://github.com/HectorZouMingxuan/maybank-loan-calculator)
-
----
-
-### 🤖 Machine Learning Project
-> (WIA1006_KOMMUTER_RIDERSHIP_ANALYSIS(Course Project)
-
-- 🔹 Implemented using Python
-- 🔹 Focus on (e.g. regression / classification)
-- 🔹 Includes data preprocessing & model training
-
-👉 [View Project](https://github.com/HectorZouMingxuan/KOMMUTER_RIDERSHIP_ANALYSIS)
-
----
-
 
 ## 🎯 Current Goals
 
