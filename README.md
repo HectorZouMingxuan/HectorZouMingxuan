@@ -47,7 +47,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: hectorzou2005@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/zou-mingxuan-hector/
 - 🌐 GitHub: https://github.com/HectorZouMingxuan/
 
 ---
