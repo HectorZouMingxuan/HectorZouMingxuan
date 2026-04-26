@@ -39,7 +39,6 @@
 
 - 🚀 Land a **Software Engineering Internship**
 - 🧠 Improve **Data Structures & Algorithms**
-- 📱 Build **production-level mobile apps**
 - 🌐 Learn **backend (Spring Boot / Node.js)**
 
 ---
