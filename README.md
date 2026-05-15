@@ -23,9 +23,11 @@
 ### 📱 Development
 - Android (Kotlin, Jetpack Compose)
 - Firebase (Firestore, Auth)
+  
 
 ### 🌐 Web
 - HTML, CSS, JavaScript
+- Flutter, React
 
 ### ⚙️ Tools
 - Git & GitHub
