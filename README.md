@@ -122,4 +122,4 @@ A data analysis project focused on exploring KOMMUTER ridership data and prepari
 
 ---
 
-⭐ *Actively building and improving. Always learning.*
+⭐ *Still Young*
