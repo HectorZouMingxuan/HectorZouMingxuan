@@ -68,20 +68,23 @@ Project Connect is an Android mobile application that helps students discover pr
 
 ---
 
-### 🌐 Personal Loan Calculator  
-**Maybank-Style Loan Calculator Web App**  
-🔗 [View Repository](https://github.com/HectorZouMingxuan/personal-loan-calculator)
+### 🏦 Personal Banking Toolkit  
+**Multi-Tool Personal Banking Web App**  
+🔗 [View Repository](https://github.com/HectorZouMingxuan/personal-banking-toolkit)
 
-A front-end web application that calculates estimated personal loan repayment based on loan amount, tenure, and fixed interest rate tiers.
+A responsive front-end personal banking toolkit built with React and Vite. It provides multiple finance-related tools for loan planning, savings goals, fixed deposits, credit card payoff estimation, currency conversion, EPF retirement projection, and monthly budget tracking.
 
 **Tech Used:** React, Vite, JavaScript, HTML, CSS
 
 **Key Features:**
-- Loan amount and tenure input
-- Automatic interest rate tier selection
-- Monthly repayment calculation
-- Total repayment and total interest display
-- Input validation and user-friendly result layout
+- Loan repayment calculator with automatic interest tier selection
+- Fixed deposit return estimation
+- Savings goal planning with compound interest calculation
+- Credit card payoff estimator
+- Static demo currency converter with reference rates
+- EPF retirement projection
+- Monthly budget tracker with expense breakdown
+- Responsive dark-themed banking dashboard UI
 
 ---
 
