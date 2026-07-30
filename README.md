@@ -8,7 +8,6 @@
 - 🎓 Software Engineering Undergraduate at **University of Malaya**
 - 💻 Interested in **Mobile Development, Web Development & Backend Systems**
 - 🔨 Currently building real-world projects using **Android, Firebase, React, and Data Analysis tools**
-- 📈 Preparing for a **6-month Software Engineering Internship**
 - 🌱 Learning: Kotlin, Firebase, React, Backend Development, and System Design
 
 ---
@@ -106,7 +105,6 @@ A data analysis project focused on exploring KOMMUTER ridership data and prepari
 
 ## 🎯 Current Goals
 
-- 🚀 Land a **Software Engineering Internship**
 - 🧠 Improve **Data Structures & Algorithms**
 - 📱 Build stronger **Android and Firebase projects**
 - 🌐 Learn **backend development with Spring Boot / Node.js**
